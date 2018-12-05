@@ -1,0 +1,7 @@
+我採用python 套件sklearn 內建的datasets.make_regression 及 make_classification隨機產生兩組數據分別為：
+Regression_data.csv: 共有1000筆資料, 10欄feature
+Classification_data.csv: 共有1000筆資料, 30欄feature, 10項類別
+
+另外用ipynb紀錄分析流程及結果，
+MLP 實作的程式碼則位於config.py及MLP.py內
+
